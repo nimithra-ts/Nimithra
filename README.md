@@ -1,10 +1,10 @@
 # <!-- README.md -->
 
 <!-- top greeting -->
-<h1 align="center">👋 Hi, I'm Ramees M Siyad</h1>
+<h1 align="center">👋 Hi, I'm Nimithra T S</h1>
 <p align="center">
-  <strong>Full-Stack Developer | Mobile App Developer | Web Designer</strong><br>
-  Passionate about building scalable, performant, and user-friendly web & mobile applications.
+  <strong>Full-Stack Developer </strong><br>
+  Passionate about building scalable, performant, and user-friendly web developer
 </p>
 
 ---
